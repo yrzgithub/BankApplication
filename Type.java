@@ -1,0 +1,3 @@
+public enum Type {
+    WITHDRAW,DEPOSIT,TRANSFER,OPENING
+}
